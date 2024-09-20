@@ -1,4 +1,47 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 4 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726802399292 tunnel running, 4 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 4 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726803812937 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803816000 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803819071 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803822144 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803825219 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803828278 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -9,7 +52,7 @@ four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726802414403 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803843378 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -17,7 +60,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802417480 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803846444 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -25,7 +68,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802420544 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803849510 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -33,15 +76,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802423609 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802426683 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803852580 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -52,7 +87,7 @@ four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726802441797 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803867681 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -60,7 +95,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802444870 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803870744 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -68,7 +103,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802447937 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803873822 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -76,103 +111,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802451007 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802454100 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802457170 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802460238 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802463300 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802466362 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802469426 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802472489 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802475548 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802478649 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802481725 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802484785 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802487850 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803876874 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -183,7 +122,7 @@ four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726802502952 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803892018 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -191,7 +130,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802506017 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803895078 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -199,7 +138,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802509100 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803898136 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -207,7 +146,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802512163 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803901189 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -215,7 +154,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802515222 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803904266 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -223,103 +162,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802518288 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802521349 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802524409 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802527487 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802530667 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802533729 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802536786 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802539850 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802542918 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802545986 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802549050 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802552122 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802555189 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803907332 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -330,7 +173,7 @@ four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726802570310 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803922410 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -338,7 +181,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802573375 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803925463 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -346,7 +189,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802576435 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803928526 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -354,7 +197,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802579521 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803931583 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -362,10 +205,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726802594625 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803934637 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -373,7 +213,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802597688 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803937691 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -381,7 +221,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802600759 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803940757 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -389,7 +229,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802603822 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803943817 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -397,7 +237,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802606884 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803946882 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -405,7 +245,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802609943 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803949945 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -413,7 +253,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802613004 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803953003 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -421,15 +261,7 @@ stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
 building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802616061 tunnel running, 4 tunnels registered
-
-
-TUNNELS
-stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
-building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726802619122 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803956062 tunnel running, 4 tunnels registered
 
 
 TUNNELS
@@ -440,7 +272,837 @@ four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726802634220 tunnel running, 4 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726803971153 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803974212 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803977282 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803980360 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803983426 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803986492 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803989548 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803992614 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803995682 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726803998744 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804001819 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804004872 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804007925 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804010991 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804014046 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804017120 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804020185 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804023251 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804026324 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804029388 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804044494 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804047562 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804050623 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804053681 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804056745 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804059806 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804062866 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804065934 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804069017 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804084121 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804087184 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804090269 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804093332 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804096393 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804099514 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804102622 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804105683 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804108746 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804111808 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804114867 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804117932 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804120996 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804124081 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804127151 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804130210 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804133264 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804148357 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804151421 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804154481 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804157542 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804160610 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804175704 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804178766 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804181822 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804184884 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804187936 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804190999 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804206091 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804209150 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804212203 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804215263 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804218343 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804221400 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804224478 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804239559 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804242620 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804245676 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804248731 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804251788 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804254873 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804257939 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804260998 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804264054 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804267114 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804270188 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804285288 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804288348 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804291414 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804294473 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804297532 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804312618 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804315684 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804318752 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804321833 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804324916 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804327977 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804331042 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804334099 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804337160 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804340215 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804343280 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804346340 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804361443 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804364503 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804367558 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804370619 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726804385722 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804388779 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804391839 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804394903 tunnel running, 4 tunnels registered
+
+
+TUNNELS
+stop-incorporated.gl.at.ply.gg:3350 => 127.0.0.1:19132 (minecraft-bedrock)
+building-economies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+f-david.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+four-evident.gl.at.ply.gg:3349 => 127.0.0.1:3349 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726804397972 tunnel running, 4 tunnels registered
 
 
 TUNNELS
